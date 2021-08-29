@@ -20,4 +20,8 @@ Roulette Wheel Voting.
 Ranked Voting.
 Veto Voting.
 
+# Flow Chart
+![Discord VoterBot Flow Chart](https://user-images.githubusercontent.com/6447418/131265021-fbffaeff-c218-49b3-b33a-2565a55b0260.jpeg)
+
+
 
