@@ -15,7 +15,7 @@ namespace VoterBot
         {
             var discord = new DiscordClient(new DiscordConfiguration()
             {
-                Token = "ODgxNzIyNzU0NjgzMDExMDcy.YSw-Tg.QYnkGH2Q19g6ACR-BLp2HZ8n8iw",
+                Token = "Token",
                 TokenType = TokenType.Bot
             });
 
