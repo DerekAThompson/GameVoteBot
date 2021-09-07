@@ -4,7 +4,8 @@ Discord Bot to implement a voting system for which multiplayer game to play amon
 
 
 
-
+# Setup Guide
+First start by installing the most recent .NET SDK from Microsoft's web page for your OS version.
 
 
 
