@@ -7,6 +7,10 @@ Discord Bot to implement a voting system for which multiplayer game to play amon
 # Setup Guide
 First start by installing the most recent .NET SDK from Microsoft's web page for your OS version.
 
+Follow the necessary installation steps for the .NET SDK.
+
+Within the IDE of your choice (Visual Studio recommended), install a C# package to support with development.
+
 
 
 
